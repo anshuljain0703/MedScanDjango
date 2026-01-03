@@ -48,7 +48,7 @@
 
 1. **Clone the Repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/anshuljain0703/MedScanDjango
    cd MedscanAntigravity/medscan_project
    ```
 
@@ -119,4 +119,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ---
 
 ## 📧 Contact
+
 For any queries or professional collaboration, please reach out via the repository's issue tracker.
