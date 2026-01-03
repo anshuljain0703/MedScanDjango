@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+
+# Django
+db.sqlite3
+media/
+staticfiles/
+
+# Environment
+.env
+
+# ML models
+scanner/ml_model/*.h5
+scanner/ml_model/*.keras
+
+# OS
+.DS_Store
+Thumbs.db
